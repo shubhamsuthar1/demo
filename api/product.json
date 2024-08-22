@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "name":"Exost Fan",
+        "image": "./public/img/ac.jpg",
+        "price":1500,
+        "discount":1500,
+        "company":"Bajaj",
+        "companyL":"./public/logo/Bajaj.png"
+    },
+ 
+
+    {
+        "id":2,
+        "name":"Selling",
+        "image": "./public/img/ac.jpg",
+        "price":1500,
+        "discount":1500,
+        "company":"Syska",
+        "companyL":"./public/logo/Almonro.png"
+
+    },
+
+
+    {
+        "id":3,
+        "name":"pedesti Fan",
+        "image": "./public/img/ac.jpg",
+        "price":1500,
+        "discount":1500,
+        "company":"Usha",
+        "companyL":"./public/logo/usha.png"
+    },
+
+
+    {
+        "id":4,
+        "name":"wall Fan",
+        "image": "./public/img/ac.jpg",
+        "price":1500,
+        "discount":1500,
+        "company":"Orient",
+        "companyL":"./public/logo/orient.png"
+    },
+    {
+        "id":5,
+        "name":"wall Fan",
+        "image": "./public/img/ac.jpg",
+        "price":1300,
+        "discount":1500,
+        "company":"Crompton",
+        "companyL":"./public/logo/Crompton.png"
+    },
+    {
+        "id":6,
+        "name":"wall Fan",
+        "image": "./public/img/ac.jpg",
+        "price":1300,
+        "discount":1500,
+        "company":"Crompton",
+        "companyL":"./public/logo/Crompton.png"
+    }
+]
